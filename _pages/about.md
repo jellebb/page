@@ -1,23 +1,24 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Jelle</strong> Bruineberg
+description: <a href="">Philosopher of the embodied mind.</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kamer 2.11</p>
+    <p>Oude Turfmarkt 141</p>
+    <p>1093 GL, Amsterdam</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Doe ik.. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am interested in questions about agency and control. Behavior is not determined by the environment, nor is it imbued by some internal agent. How intentional and adequate actions can arise out of the interplay between brain, body and environment is one of the central questions of my research. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I studied Physics and Astronomy (BSc.), Philosophy (BA./MA.) and Brain and Cognitive Sciences (MSc.) at the University of Amsterdam, after which I pursued a PhD with [Erik Rietveld](https://erikrietveld.com/) on *Naturalizing Skilled Intentionality*. I successfully defended my [dissertation](https://dare.uva.nl/search?identifier=75672790-f4ac-4b84-bde7-83b51ccc73bb) in Spring 2018.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently working as a post-doctoral researcher at the Institute for Logic, Language and Computation ([ILLC](https://illc.uva.nl)) funded by an [Amsterdam Brain and Cognition](https://abc.uva.nl) Talent Grant. I am also an Associate Fellow at the UvA's [Institute for Advanced Studies](https://ias.uva.nl).
+
